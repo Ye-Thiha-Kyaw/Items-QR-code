@@ -40,5 +40,5 @@ base.textContent=qrCodeData['Base']
 const returnButton= document.querySelector('.returnButton')
 
 returnButton.addEventListener('click',function(){
-    window.location.href = 'result.html'
+    window.location.href = 'index.html'
 })
